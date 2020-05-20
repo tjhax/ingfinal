@@ -1746,7 +1746,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 1588856951}
   animator: {fileID: 1588856957}
-  runSpeed: 500
+  runSpeed: 300
 --- !u!114 &1588856951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1759,7 +1759,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfd8217aecafc4a459ecb30c480f2398, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_JumpForce: 1000
+  m_JumpForce: 750
   m_CrouchSpeed: 0.36
   m_MovementSmoothing: 0.05
   m_AirControl: 0
